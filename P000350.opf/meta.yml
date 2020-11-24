@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD17637
   title: རབ་བྱུང་བཅུ་བདུན་པའི་ཤིང་ལུག་ལོའི་ལོ་ཐོ། སྤྱི་ལོ ༢༠༡༥ལོ།
-  volume: ''
+  volume:
+    16adced9b2224700a975b89ca59013f9:
+      image_group_id: I2PD19276
+      title: Volume 1 of rab byung bcu bdun pa'i shing lug lo'i lo tho/ spyi lo 2015lo/
+      volume_number: 1
+      total_pages: 130
   author: ''
+ebook_metadata:
+  title: རབ་བྱུང་བཅུ་བདུན་པའི་ཤིང་ལུག་ལོའི་ལོ་ཐོ། སྤྱི་ལོ ༢༠༡༥ལོ།
+  author: ''
+  sku: P000350
+  cover: cover.jpg
+  layers:
+  - pagination
